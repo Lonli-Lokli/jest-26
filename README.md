@@ -1,1 +1,3 @@
-# jest-26
+Run
+npm run jest
+
